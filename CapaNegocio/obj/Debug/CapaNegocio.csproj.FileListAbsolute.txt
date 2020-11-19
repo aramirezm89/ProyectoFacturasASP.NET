@@ -1,0 +1,11 @@
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\tallerDeAplicacionesWeb.Net\Final\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\tallerDeAplicacionesWeb.Net\Final\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\tallerDeAplicacionesWeb.Net\Final\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\tallerDeAplicacionesWeb.Net\Final\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\tallerDeAplicacionesWeb.Net\Final\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\tallerDeAplicacionesWeb.Net\Final\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\tallerDeAplicacionesWeb.Net\Final\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\tallerDeAplicacionesWeb.Net\Final\CapaNegocio\bin\Debug\CapaPersistencia.dll
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\tallerDeAplicacionesWeb.Net\Final\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\tallerDeAplicacionesWeb.Net\Final\CapaNegocio\bin\Debug\CapaPersistencia.pdb
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\tallerDeAplicacionesWeb.Net\Final\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete

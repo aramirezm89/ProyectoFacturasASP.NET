@@ -1,0 +1,6 @@
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\tallerDeAplicacionesWeb.Net\Final\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\tallerDeAplicacionesWeb.Net\Final\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\tallerDeAplicacionesWeb.Net\Final\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\tallerDeAplicacionesWeb.Net\Final\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\tallerDeAplicacionesWeb.Net\Final\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\tallerDeAplicacionesWeb.Net\Final\CapaEntidad\obj\Debug\CapaEntidad.pdb

@@ -1,0 +1,9 @@
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\tallerDeAplicacionesWeb.Net\Final\CapaPersistencia\bin\Debug\CapaPersistencia.dll
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\tallerDeAplicacionesWeb.Net\Final\CapaPersistencia\bin\Debug\CapaPersistencia.pdb
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\tallerDeAplicacionesWeb.Net\Final\CapaPersistencia\obj\Debug\CapaPersistencia.csprojAssemblyReference.cache
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\tallerDeAplicacionesWeb.Net\Final\CapaPersistencia\obj\Debug\CapaPersistencia.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\tallerDeAplicacionesWeb.Net\Final\CapaPersistencia\obj\Debug\CapaPersistencia.dll
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\tallerDeAplicacionesWeb.Net\Final\CapaPersistencia\obj\Debug\CapaPersistencia.pdb
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\tallerDeAplicacionesWeb.Net\Final\CapaPersistencia\bin\Debug\CapaEntidad.dll
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\tallerDeAplicacionesWeb.Net\Final\CapaPersistencia\bin\Debug\CapaEntidad.pdb
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\tallerDeAplicacionesWeb.Net\Final\CapaPersistencia\obj\Debug\CapaPersistencia.csproj.CopyComplete
